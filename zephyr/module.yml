@@ -1,0 +1,4 @@
+name: hal_py32
+build:
+  cmake-ext: true
+  kconfig-ext: true
